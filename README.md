@@ -20,4 +20,3 @@ Save the Results: Store the encrypted and decrypted images.
 
 This technique allows users to secure their images with a relatively simple method, though it's not as secure as modern encryption algorithms.
 
-Want to dive deeper into any of these aspects?
